@@ -1,0 +1,6 @@
+framework module Pods_CoordinatorSwift4Tests {
+  umbrella header "Pods-CoordinatorSwift4Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
